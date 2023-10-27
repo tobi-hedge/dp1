@@ -5,14 +5,17 @@
         "VIX High": 18.68,
         "VIX Low": 17.54,
         "VIX Open": 17.96
-    },
-    {
+
+        {
         "Date": "2004-01-05",
         "VIX Close": 17.49,
         "VIX High": 18.49,
         "VIX Low": 17.44,
         "VIX Open": 18.45
     },
+    },
+
+
     {
         "Date": "2004-01-06",
         "VIX Close": 16.73,
